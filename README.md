@@ -1,2 +1,2 @@
-# netflixclone
-Netflixclone - Created using Html,Css and JavaScript
+# Netflixclone
+Netflixclone - Created using Html, Css and JavaScript
